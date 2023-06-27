@@ -64,7 +64,7 @@ int main(int argc, char *argv[]) {
 
 // Implementación de la función mostrarInventario
 void mostrarInventario(float cantidades[], float precios[], char* nombres[], char* descripciones[]) {
-    printf("------------------------------- INVENTARIO DE PRODUCTOS TALLER -------------------------------\n");
+    printf("------------------------------- INVENTARIO DE PRODUCTOS -------------------------------\n");
     printf("| Codigo |      Nombre      |       Descripcion       |    Cantidad    |   Precio   |\n");
     printf("---------------------------------------------------------------------------------------------\n");
 
